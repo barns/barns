@@ -26,4 +26,4 @@ jobs:
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "76561198078689056"
-          config_order: base.header, isocalendar, achievements, languages, stars, topics
+          config_order: base.header, isocalendar, achievements, languages, stars, topics, steam
