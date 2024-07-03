@@ -4,7 +4,7 @@ I'm currently learning full-stack web development with a view to changing career
 
 <p style="text-align:center">
   <picture>
-    <img src="/github-metrics.svg" alt="Metrics">
+    <img src="/github-metrics.svg" alt="Metrics" style="display: block; margin: 0 auto;">
   </picture>
 </p>
 
