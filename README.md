@@ -2,9 +2,9 @@
 
 I'm currently learning full-stack web development with a view to changing careers. I have a particular interest in REST APIs and TDD
 
-<picture style="text-align:center">
+<p style="text-align:center">
   <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+</p>
 
 <!--
 **barns/barns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
