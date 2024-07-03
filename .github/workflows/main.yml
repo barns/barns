@@ -23,6 +23,7 @@ jobs:
           plugin_stars: yes
           plugin_topics: yes
           plugin_achievements: yes
+          plugin_achievements_display: compact
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "76561198078689056"
