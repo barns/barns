@@ -2,8 +2,8 @@
 
 I'm currently learning full-stack web development with a view to changing careers. I have a particular interest in REST APIs and TDD
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics" align="center">
+<picture style="text-align:center">
+  <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
 <!--
